@@ -19,7 +19,7 @@ Javascript (ReactJS), HTML, CSS...
 
 Demo of project
 
-http://nftmarket.mahdifarshid.ir
+http://nftmarketplace.mahdifarshid.ir
 
 ## Dribbble Source for this React Project
 
